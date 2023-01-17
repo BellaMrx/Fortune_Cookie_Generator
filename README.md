@@ -6,4 +6,9 @@ Save the files in a folder and open the file "index.html" in your browser.
 
 Have fun.
 
-![Preview](FortuneCookiePreview.JPG)
+Preview
+
+![Preview](images/PreviewVFC1.PNG)
+
+
+![Preview](images/PreviewVFC2.PNG)

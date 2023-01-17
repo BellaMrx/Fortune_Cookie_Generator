@@ -6,7 +6,7 @@ function openVC() {
 	body.style.animation = "shake 0.8s";			//animation
 	//delay of display when clicked by button with timeout
 	setTimeout (() => {
-	body.src = "fortune-cookie-text1.png";
+	body.src = "../images/fortune-cookie-text1.png";
 	body.style.width = "800px";
 	body.style.height = "425px";
 	body.style.text_align = "center";

@@ -3,20 +3,22 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="google" content="notranslate">
-		<link rel="stylesheet" href="styleVGKshake.css">
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="styles/style.css">
 		<title>Virtual Fortune Cookie</title>
 	</head>
 	<body>
-		<div class="headline">
-			<img class="headlineImageLeft" src="fortune-cookie1.png">
-			<p>Virtual Fortune Cookie</p>
-			<img class="headlineImageRight" src="fortune-cookie1.png">
+		<div class="header">
+			<h1>Virtual Fortune Cookie</h1>
+			<a href="https://twitter.com/bella_mrx" class="fa fa-twitter"><span id="link">@bella_mrx</span></a>
+			<a href="https://github.com/BellaMrx" class="fa fa-github"><span id="link">BellaMrx</span></a>
 		</div>
-		<div class="main">
-			<img class="closeCookie" onclick="openVC(); this.onclick=null;" src="fortune-cookie1.png"> 
+		<div class="main">			
+			<img class="closeCookie" onclick="openVC(); this.onclick=null;" src="images/fortune-cookie1.png"> 
 			<p class="cookieNewText" id="cookieText"><p>
+			<p class="breakGoodbye" id="goodbyeText">Click on the cookie to break it.</p>
 		</div>
-		<p class="breakGoodbye" id="goodbyeText">Click on the cookie to break it.</p>
-	<script src="scriptVGKshake.js"></script>
+	<script src="scripts/script.js"></script>
 	</body>
 </html>

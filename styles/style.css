@@ -15,8 +15,7 @@ h1 {
 	font-style: italic;
 	font-weight: bold;
 	color: #900c87c8;
-	text-shadow: 0px 0px 5px #fdfdfe, 0px 0px 10px #fdfdfe, 0px 0px 10px #fdfdfe,
-	  0px 0px 20px #fdfdfe;
+	text-shadow: 0px 0px 5px #fdfdfe, 0px 0px 10px #fdfdfe, 0px 0px 10px #fdfdfe, 0px 0px 20px #fdfdfe;
 }
 
 .link {
@@ -32,7 +31,7 @@ h1 {
 }
 
 .fa:hover {
-    opacity: 0.7;
+	opacity: 0.7;
 	text-decoration: none;
 }
 
@@ -47,7 +46,6 @@ h1 {
 span {
 	color: aliceblue;
 }
-
 
 
 .main {
@@ -101,35 +99,35 @@ img {
 @keyframes shake {
 0% { 
 	transform: translate(1px, 1px) rotate(0deg); 
-}
+	}
 10% { 
 	transform: translate(-1px, -2px) rotate(-1deg); 
-}
+	}
 20% { 
 	transform: translate(-3px, 0px) rotate(1deg); 
-}
+	}
 30% { 
 	transform: translate(3px, 2px) rotate(0deg); 
-}
+	}
 40% { 
 	transform: translate(1px, -1px) rotate(1deg); 
-}
+	}
 50% { 
 	transform: translate(-1px, 2px) rotate(-1deg); 
-}
+	}
 60% { 
 	transform: translate(-3px, 1px) rotate(0deg); 
-}
+	}
 70% { 
 	transform: translate(3px, 1px) rotate(-1deg); 
-}
+	}
 80% { 
 	transform: translate(-1px, -1px) rotate(1deg); 
-}
+	}
 90% { 
 	transform: translate(1px, 2px) rotate(0deg); 
-}
+	}
 100% { 
 	transform: translate(1px, -2px) rotate(-1deg); 
-}
+	}
 }

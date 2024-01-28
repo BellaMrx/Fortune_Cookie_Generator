@@ -1,16 +1,12 @@
 # Fortune_Cookie_Generator
 
-Only in HTML, CSS, JS
+ build with JavaScript, HTMl, CSS. The code can be found in the "Virtuel_Furtune_Cookie" folder.
  
-Save the files in a folder and open the file "index.html" in your browser.
-
-Have fun.
-
- Video on [YouTube](https://www.youtube.com/watch?v=pdZfq3fOUCk)
-
-Preview
-
-![Preview](images/PreviewVFC1.PNG)
+ Try out the Fortune Cookie Generator here [book-of-coding.com](https://book-of-coding.com/build_projects.html#virtuel_cookie)
 
 
-![Preview](images/PreviewVFC2.PNG)
+ Preview
+
+ <img src="images/Preview_Vitruel_Cookie_Generator_1.png" width="400">
+
+ <img src="images/Preview_Vitruel_Cookie_Generator_2.png" width="300">
